@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **zhaoq@kean.edu**
 
-<h3 align="left">Connect with me:</h3>
+- 🌟 My Interests **HCI, NLP, and Software Architecture**
+
+
 <p align="left">
 </p>
 
