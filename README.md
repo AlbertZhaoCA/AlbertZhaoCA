@@ -7,6 +7,8 @@
 
 - 🌟 My Interests **HCI, NLP, and Software Architecture**
 
+- 🏠 My Blog **[HCI, NLP, and Software Architecture](https://albertzhaoca.github.io/myBlog/)**
+
 
 <p align="left">
 </p>
