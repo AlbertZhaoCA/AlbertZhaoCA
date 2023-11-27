@@ -20,7 +20,8 @@
   <a href="https://www.jetbrains.com/idea/"> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/intellij_93550.png" alt="Intellij" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Contact me immediately :</h3>
   
-  <img src=./wechatCode alt="wechat QR-Code" width="100" height="100"/> </a> 
+  <h3 align="left">Contact me immediately :</h3>
+  
+  <img src= ./wechatCode.jpg alt="wechat QR-Code" width="391" height="270"/> </a> 
 
