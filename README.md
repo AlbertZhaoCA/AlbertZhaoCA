@@ -1,16 +1,26 @@
-<h1 align="center">Hi 👋, I'm Albert</h1>
-<h3 align="center">A Passionate Computer Science Student from China</h3>
+👋 **Hi there!**
 
-- 💬 **Feel free to ask me anything!**
+### 🛠️ Technologies & Tools
+- **Web Development:** Next.js, React, Express, Redux, React Router  
+- **Styling:** Tailwind CSS  
+- **Build Tools:** Webpack, ESLint, Yarn  
+- **Database and Authentication:** Drizzle, PostgreSQL, Supabase  
+- **API:** RESTful API  
+- **Markdown Processing:** Contentlayer  
+- **Preferred and Used Programming Languages:** Python (with PyTorch), TypeScript  
+- **Known Languages:** Java SE (without any framework)  
 
-- 📫 **How to reach me:**  
-  - **Email:** `zhaoq@kean.edu`  
-  - **WeChat:** `Albert_Zhao_CA`
+### 🚀 Current Projects and Research
+- Some Next.js web projects with Tailwind CSS powered by Supabase and deployed on Vercel  
+- A Discord admin bot
+- A project without frameworks to help my team member to get familiar with web dev  
+- Research on robustness against common corruption for image segmentation  
 
-- 🌟 **My Interests:** `Human-Computer Interaction (HCI)`, `Natural Language Processing (NLP)`, `Software Architecture`
+### 🌐 Deployment
+Experience deploying applications using Vercel and VPS.  
+Building infrastructure with ForwardEmail and Cloudflare.
 
-- 🏠 **My Blog:** [kittybob.com](http://kittybob.com) (Currently not completed and not maintained, as the server is being used for another project.)
+Feel free to check out my projects and connect with me!
 
-
-
-
+Email: zhaoq@kean.edu
+Discord: @albert_zhao_ca
