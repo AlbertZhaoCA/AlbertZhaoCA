@@ -5,7 +5,7 @@
 - **Database and Authentication:** Drizzle, PostgreSQL, Supabase  
 - **API:** RESTful API  
 - **Markdown Processing:** Contentlayer  
-- **Preferred and Used Programming Languages:** Python (with PyTorch), TypeScript  
+- **Preferred and Used Programming Languages:** Python (with PyTorch and fastapi), TypeScript  
 - **Known Languages:** Java SE (without any framework)  
 
 ### 🚀 Current Projects and Research
