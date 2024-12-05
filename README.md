@@ -15,6 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertzhaoca&layout=compact&theme=tokyonight)
 
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/React%20Query-%23FF4154?logo=reactquery&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Supabase-%2339B84B?logo=supabase&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Drizzle-%23407E5B?logo=drizzle&logoColor=ffffff)
@@ -22,6 +23,8 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-FFCA28?logo=javascript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Redux-%23F7B929?logo=redux&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/React%20Router-%23CA4245?logo=reactrouter&logoColor=ffffff)
+
+
 
 
 
