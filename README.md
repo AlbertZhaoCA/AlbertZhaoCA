@@ -64,14 +64,15 @@
 - **Known Languages:** Java SE (without any framework)  
 
 ### 🚀 Current Projects and Research
-- Some Next.js web projects with Tailwind CSS powered by Supabase and deployed on Vercel  
-- A Discord admin bot
-- A project without frameworks to help my team members get familiar with web development.
-- Research on robustness against common corruption for image segmentation
-- Labeling tool built on the Segment Anything Model (SAM)
+**Memory-Enhanced Agent System**
+Building an AI agent system with memory capabilities, leveraging a modern tech stack including FastAPI, Next.js, Supabase, and Coolify for deployment and orchestration.
+The application layer is almost finised, the work on the memory system will begin soon.
+
+**Research on Trustworthy AI**
+Currently working on an LLM Jailbreak Defender project.
 
 ### 🌐 Deployment
-Experience deploying applications using Vercel and VPS.  
+Experience deploying applications using Vercel, and VPS with Coolify.  
 Building infrastructure with ForwardEmail and Cloudflare.
 
 Feel free to check out my projects and connect with me!
