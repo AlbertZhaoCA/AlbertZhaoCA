@@ -1,14 +1,17 @@
+![Citations](https://img.shields.io/badge/citations-7-brightgreen) ![h-index](https://img.shields.io/badge/h--index-1-blue) ![i10-index](https://img.shields.io/badge/i10--index-0-orange)
+
 <div align="center">
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,  I'm  Albert ! </h1>
   <h3>A <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and <img src="https://media.giphy.com/media/NFA61GS9qKZ68/giphy.gif?cid=ecf05e47ff0oqyja4d86fxey89pj6q99346wuegg2h3bd89g&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="30"></h3>
  <h3> Welcome to my repo <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h3>
 </div>
 
----
 <!--
 ![Visitor Count](https://profile-counter.glitch.me/cielaber/count.svg)
 ![cielaber's GitHub stats](https://github-readme-stats.vercel.app/api?username=cielaber&show_icons=true&theme=tokyonight)
 -->
+
+
 
 
 ### I code with
@@ -63,14 +66,6 @@
 - **Preferred and Used Programming Languages:** Python (with PyTorch and FastAPI), TypeScript  
 - **Known Languages:** Java SE (without any framework)  
 
-### 🚀 Current Projects and Research
-**Memory-Enhanced Agent System**
-Building an AI agent system with memory capabilities, leveraging a modern tech stack including FastAPI, Next.js, Supabase, and Coolify for deployment and orchestration.
-The application layer is almost finised, the work on the memory system will begin soon.
-
-**Research on Trustworthy AI**
-Currently working on an LLM Jailbreak Defender project.
-
 ### 🌐 Deployment
 Experience deploying applications using Vercel, and VPS with Coolify.  
 Building infrastructure with ForwardEmail and Cloudflare.
@@ -79,3 +74,8 @@ Feel free to check out my projects and connect with me!
 
 Email: zhaoq@kean.edu  
 Discord: @albert_zhao_ca
+
+### 📝 Publications
+
+1. **Srpo: Enhancing multimodal llm reasoning via reflection-aware reinforcement learning** (2025) *arXiv preprint arXiv:2506.01713* - 7 citations
+
