@@ -77,5 +77,7 @@ Discord: @albert_zhao_ca
 
 ### 📝 Publications
 
-1. **Srpo: Enhancing multimodal llm reasoning via reflection-aware reinforcement learning** (2025) *arXiv preprint arXiv:2506.01713* - 7 citations
+1. **Srpo: Enhancing multimodal llm reasoning via reflection-aware reinforcement learning** (2025) *arXiv preprint arXiv:2506.01713* (NeurIPS 2025)
+
+2. SafeBehavior: Simulating Human-Like Multistage Reasoning to Mitigate Jailbreak Attacks in Large Language Models (2025) arXiv preprint arXiv:2509.26345 
 
