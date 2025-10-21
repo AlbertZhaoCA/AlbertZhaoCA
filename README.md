@@ -1,4 +1,4 @@
-![Citations](https://img.shields.io/badge/citations-7-brightgreen) ![h-index](https://img.shields.io/badge/h--index-1-blue) ![i10-index](https://img.shields.io/badge/i10--index-0-orange)
+![Citations](https://img.shields.io/badge/citations-19-brightgreen) ![h-index](https://img.shields.io/badge/h--index-1-blue) ![i10-index](https://img.shields.io/badge/i10--index-0-orange)
 
 <div align="center">
   <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,  I'm  Albert ! </h1>
@@ -77,7 +77,9 @@ Discord: @albert_zhao_ca
 
 ### 📝 Publications
 
-1. **Srpo: Enhancing multimodal llm reasoning via reflection-aware reinforcement learning** (2025) *arXiv preprint arXiv:2506.01713* (NeurIPS 2025)
+1. **Srpo: Enhancing multimodal llm reasoning via reflection-aware reinforcement learning** (NeurIPS 2025) https://srpo.pages.dev/
 
-2. SafeBehavior: Simulating Human-Like Multistage Reasoning to Mitigate Jailbreak Attacks in Large Language Models (2025) arXiv preprint arXiv:2509.26345 
+2. SafeBehavior: Simulating Human-Like Multistage Reasoning to Mitigate Jailbreak Attacks in Large Language Models arXiv:2509.26345 https://safebehavior.trust4ai.org
+
+3. Plan Then Action:High-Level Planning Guidance Reinforcement Learning for LLM Reasoning arXiv:2510.01833
 
